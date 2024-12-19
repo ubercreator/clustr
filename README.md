@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="/clustr/logo1.png">
-  <img alt="exo logo" src="/docs/exo-logo-transparent.png" width="50%" height="50%">
+  <img alt="clustr logo" src="/clustr/logo1.png" width="50%" height="50%">
 </picture>
 
 (https://x.com/clustr_ai).
