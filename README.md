@@ -25,7 +25,7 @@
 
 ```sh
 git clone https://github.com/clustr
-cd exo
+cd clustr
 pip install -e .
 # alternatively, with venv
 source install.sh
